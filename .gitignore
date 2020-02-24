@@ -1,2 +1,3 @@
 my_cwb_apikey.txt
 .ipynb_checkpoints
+*.sqlite
